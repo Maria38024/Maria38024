@@ -35,11 +35,12 @@
   />
   <br>
   <br>
+  <!--
   <img
     align="center"
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maria38024&theme=radical"
-  />
+  />-->
   <br>
   <br>
   <img
@@ -47,7 +48,7 @@
     align="center"
     alt="Top Language"
     src="https://github-readme-streak-stats.herokuapp.com?user=Maria38024&theme=radical&card_width=885"
-  />
+  /> 
   </div>
 
 
