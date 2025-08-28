@@ -1,14 +1,14 @@
 ## Maria Clara Rodrigues
 
-## Sobre mim <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1f7.png" width="20"/> 
+ <!--## Sobre mim <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1f7.png" width="20"/>
+ <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1f8.png" width="20"/> 
 
 - 🎓 Estudante de Ciência da Computação pela UFCG
 - 🌐 Meus assuntos de maior interesse são HTML, CSS, JavaScript e afins
 - ☕ Apesar de atuar no FrontEnd, também gosto muito de Java, Python e SQL
 - 📚 Adoro ler e estudar outros idiomas
-- 🚀 Estou sempre em busca de aprender cada vez mais :)
----
-## About me <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1f8.png" width="20"/>
+- 🚀 Estou sempre em busca de aprender cada vez mais :) -->
+<!--## About me -->
 - 🎓 Computer Science student at UFCG
 - 🌐 Passionate about HTML, CSS, JavaScript, and related technologies
 - ☕ Although I work with Front-End, I also enjoy Java, Python, and SQL
