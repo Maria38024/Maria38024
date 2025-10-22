@@ -45,6 +45,7 @@
   />
   </div>
 
+
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
@@ -54,6 +55,8 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" />
 
 </div>
+
+[![An image of @maria38024's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maria38024)](https://holopin.io/@maria38024)
  
 <!--
 **Maria38024/Maria38024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
